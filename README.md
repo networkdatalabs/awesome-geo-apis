@@ -29,6 +29,7 @@ Categorized by primary capability. Each entry includes pricing tier, free quota,
 | [ipstack](https://ipstack.com) | 100 req/mo (HTTPS paid) | API key | City | HTTPS gated behind paid plan. |
 | [Abstract API](https://www.abstractapi.com/api/ip-geolocation-api) | 20,000 req/mo | API key | City | Multi-API platform. |
 | [MaxMind GeoLite2](https://www.maxmind.com/en/geolite2/signup) | DB download | License | City | Self-hosted IP DB. Update weekly. |
+| [Network Data Labs](https://www.networkdatalabs.com/) | 1,000 req/mo | API key | City | ASN + timezone included. VPN/Tor/hosting risk flags on paid plans. |
 
 ## Exchange Rates
 
